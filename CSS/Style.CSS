@@ -81,6 +81,7 @@
 	margin: 0 0 28px 0;
 	height: 252px;
 	background: #F9F8F8;
+	vertical-align: top;
 }
 
 .title-organic{
@@ -109,6 +110,8 @@
 	padding: 63px 45px;
 	height: 252px;
 	background: #F9F8F8;
+	vertical-align: top;
+
 }
 .div-orange-banner {
 	padding: 96px 0;
